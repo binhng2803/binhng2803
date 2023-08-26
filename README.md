@@ -1,5 +1,6 @@
+# 👋 Hi there, I'm Nguyen Gia Binh
 # 💫About Me :
-I’m Nguyen Gia Binh. I am currently in my second year at FPT University. My interests are AI and data science.
+I am currently in my second year at FPT University. My interests are AI and data science.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//profile.php?id=100014765282533) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-binh-590842269/) 
